@@ -229,3 +229,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.csproj
+PriemAGInspector/PriemAGInspector/app.config
+PriemAGInspector/PriemAGInspector.rar
+*.sln
+PriemAGInspector/app.config
